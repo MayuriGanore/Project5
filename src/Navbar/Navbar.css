@@ -1,0 +1,38 @@
+.logo-text
+{
+    color: aqua;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: bold;
+    list-style: none;
+    text-decoration: none;
+}
+.logo-text:hover
+{
+    color: white;
+}
+.listcomponents
+{
+    list-style: none;
+}
+.linkcomponents
+{
+    font-weight: bold;
+    color:white;
+    font-style: italic;
+    font-size: 20px;
+    text-decoration: none;
+}
+.linkcomponents:hover
+{
+    color:aqua;
+}
+.container2
+{
+    gap: 40px;
+    display: flex;
+    margin-right: 300px;
+    margin-top: 30px;
+}

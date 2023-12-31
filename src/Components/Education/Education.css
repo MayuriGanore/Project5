@@ -1,0 +1,98 @@
+.container11
+{
+    height: 375px;
+    width: 380px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 2px solid transparent;
+    border-color: aqua;
+    border-radius: 30px;
+    color: white;
+}
+.container12
+{
+    height: 375px;
+    width: 380px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 2px solid transparent;
+    border-color: aqua;
+    border-radius: 30px;
+    color: white;
+}
+.container13
+{
+    height: 375px;
+    width: 380px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 2px solid transparent;
+    border-color: aqua;
+    border-radius: 30px;
+    color: white;
+}
+.container14
+{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.image3
+{
+    height: 50px;
+    width: 50px;
+    margin-left: -300px;
+    margin-top: 15px;
+}
+.image3:hover
+{
+    transition: transform 0.3s ease-in-out;
+    transform: scale(1.2);
+}
+.container11 h3
+{
+    color: aqua;
+    margin-top: -53px;
+    font-size: 25px;
+    margin-right: -30px;
+}
+.container12 h3
+{
+    color: aqua;
+    margin-top: -53px;
+    font-size: 25px;
+    margin-right: -30px;
+}
+.container13 h3
+{
+    color: aqua;
+    margin-top: -53px;
+    font-size: 25px;
+    margin-right: -60px;
+}
+.listcomponents1
+{
+    list-style: none;
+    text-align: left;
+    margin-top: 15px;
+}
+.container11 p
+{
+    margin-top: -10px;
+}
+.container12 p
+{
+    margin-top: -10px;
+}
+.container13 p
+{
+    margin-top: -10px;
+}
+#btn1
+{
+    margin-left: 0px;
+    margin-top: 1px;
+    border: 1px solid ;
+    font-size: large;
+}

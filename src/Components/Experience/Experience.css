@@ -1,0 +1,100 @@
+.container15
+{
+    background-color: black;
+    color: white;
+    height: 460px;
+    width: 380px;
+    text-align: center;
+    border: 2px solid transparent;
+    border-color: aqua;
+    border-radius: 30px;
+}
+.container16
+{
+    background-color: black;
+    color: white;
+    height: 460px;
+    width: 380px;
+    text-align: center;
+    border: 2px solid transparent;
+    border-color: aqua;
+    border-radius: 30px;
+}
+.container17
+{
+    background-color: black;
+    color: white;
+    height: 460px;
+    width: 380px;
+    text-align: center;
+    border: 2px solid transparent;
+    border-color: aqua;
+    border-radius: 30px;
+}
+.container18
+{
+    gap:45px;
+    display:flex;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.image4
+{
+    height: 80px;
+    width: 100px;
+    margin-left: -250px;
+    margin-top:10px;
+    border-radius: 50px;
+}
+.image4:hover {
+    transition: transform 0.3s ease-in-out;
+    transform: scale(1.2);
+}
+.container15 h3 
+{
+    color: aqua;
+    margin-top: -75px;
+    margin-left: 100px;
+}
+.container16 h5
+{
+    color: aqua;
+    margin-top: -60px;
+    margin-left: 100px;
+}
+.container17 h3
+{
+    color: aqua;
+    margin-top: -75px;
+    margin-left: 100px;
+}
+.container16 b
+{
+    color: aqua;
+}
+.container15 b
+{
+    color: aqua;
+}
+.container17 b
+{
+    color: aqua;
+}
+.listitems2
+{
+    margin-top: 15px;
+    list-style: none;
+}
+.paragraph2
+{
+    margin-top: -10px;
+}
+#btn2
+{
+    font-size: 20px;
+    margin-left: -3px;
+    border: 2px solid;
+    border-color: aqua;
+    border-radius: 20px;
+    margin-top: -4px;
+}
