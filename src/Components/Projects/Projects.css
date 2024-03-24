@@ -1,4 +1,72 @@
-.text5
+.container36
 {
-    color:white;
+    display: flex;
+    gap:70px;
+    margin-left: 100px;
+    margin-top: 19px;
 }
+.container37
+{
+    height:130px;
+    width:500px;
+    background-color:black;
+    margin-bottom:30px;
+    text-align:center;
+}
+.container38
+{
+    height:130px;
+    width:500px;
+    background-color:black;
+    color:white;
+    border:2px solid;
+    border-radius:20px;
+    margin-bottom:30px;
+    text-align:center;
+    border-color: aqua;
+}
+
+.container39
+{
+    height:130px;
+    width:500px;
+    background-color:black;
+    color:white;
+    border:2px solid;
+    border-radius:20px;
+    margin-bottom:30px;
+    text-align:center;
+    border-color: aqua;
+}
+.container40
+{
+    height:130px;
+    width:500px;
+    background-color:black;
+    color:white;
+    margin-bottom:30px;
+    text-align:center;
+}
+.projectlist
+{
+    list-style: none;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+.projectlist li
+{
+    margin-left: -10px;
+}
+.image9
+{
+    height: 80px;
+    width: 90px;
+    margin-left: -350px;
+    margin-top: -15px;
+    border-radius: 50px;
+}
+.image9:hover {
+    transform: scale(1.2); 
+  }
+
+

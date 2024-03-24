@@ -30,7 +30,8 @@ function Navbar() {
             <Link className="linkcomponents" to="/Skills">Skills</Link>
           </li>
           <li className="listcomponents">
-zz          </li>
+          <Link className="linkcomponents" to="/Projects">Projects</Link>
+         </li>
           <li className="listcomponents">
             <Link className="linkcomponents" to="/Profiles">Profiles</Link>
           </li>
